@@ -3,7 +3,7 @@
 A 100% serverless, client-side web application designed to process PDFs, perform OCR, and convert office documents instantly. Everything runs locally inside the user's browser using their device's hardware—meaning no backend servers, zero hosting costs, and total data privacy.
 
 ## 🚀 Live Demo
-[👉 Open PDFForge Live App](https://github.io)
+[👉 Open PDFForge Live App](https://pdfforge-tool.github.io/pdfforge/)
 
 ---
 
