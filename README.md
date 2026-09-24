@@ -15,7 +15,7 @@ Instead of hiding it, I am proud to showcase that **this application was built u
 
 ### 🤖 The AI Dual-Orchestration Strategy:
 1. **DeepSeek (The System Builder):** I utilized DeepSeek to quickly generate the multi-step HTML5 layout framework, wire up the step-by-step sequential processing pipeline (Steps 1 to 5), and connect the massive array of online CDN library links.
-2. **Claude 3.5 Sonnet (The Code Mechanic):** DeepSeek was incredibly efficient at building the initial layout but failed heavily when tracking down complex runtime bugs. When the app hit a wall, I turned to Claude 3.5 Sonnet to parse my single-file architecture. Claude successfully hunted down fatal syntax issues, resolved duplicate variable declarations (`let`/`const` collisions), fixed asynchronous timing blocks, and implemented lazy-loading logic so heavy scripts load on-demand without freezing the user interface.
+2. **Claude Sonnet 5(The Code Mechanic):** DeepSeek was incredibly efficient at building the initial layout but failed heavily when tracking down complex runtime bugs. When the app hit a wall, I turned to Claude 5 Sonnet to parse my single-file architecture. Claude successfully hunted down fatal syntax issues, resolved duplicate variable declarations (`let`/`const` collisions), fixed asynchronous timing blocks, and implemented lazy-loading logic so heavy scripts load on-demand without freezing the user interface.
 
 Through this project, I learned how to read complex event listeners, manage browser memory (like wiping canvas objects clear after processing), and handle network errors—directly mapping these structural behaviors back to the core programming fundamentals I am learning in Python.
 
