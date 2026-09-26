@@ -1,9 +1,5 @@
 # ⚡ PDFForge — Client-Side PDF & Office Toolkit
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-
 A 100% serverless, client-side web application designed to process PDFs, perform OCR, and convert office documents instantly. 
 
 Everything runs locally inside the user's browser using their device's hardware—meaning **no backend servers, zero hosting costs, and total data privacy.**
@@ -12,7 +8,6 @@ Everything runs locally inside the user's browser using their device's hardware�
 [👉 **Open PDFForge Live App**](https://pdfforge-tool.github.io/pdfforge/)
 
 <!-- Add your screenshot here! Replace the link below with the actual image from your repo -->
-![Uploading image.png…]()
 ---
 
 ## ✨ Features
