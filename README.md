@@ -32,7 +32,7 @@ Because this app uses zero server space, it leverages heavy-hitting client-side 
 
 I am a **1st-year AI & Data Science student**. Coming into this project, my programming foundation was limited to **basic Python logic**. I had no experience with advanced frontend frameworks or asynchronous JavaScript, but I wanted to understand how browser-side data processing and "edge computing" worked in the real world.
 
-To bridge my knowledge gaps and learn rapidly, I treated AI models as **pair-programming partners**. I used **DeepSeek** for rapid structural scaffolding, and **Claude Sonnet 5 Max** for deep runtime debugging. 
+To bridge my knowledge gaps and learn rapidly, I treated AI models as **pair-programming partners**. I used **DeepSeek** for rapid structural scaffolding, and **Claude Sonnet** for deep runtime debugging. 
 
 **My role as the developer:**
 I designed the architecture, evaluated the UI/UX, wired the step-by-step processing pipeline, and made the technical decisions on which CDN libraries to use. When the app hit critical walls, I debugged fatal syntax issues, resolved duplicate variable declarations (`let`/`const` collisions), fixed asynchronous timing blocks, and implemented lazy-loading logic so heavy scripts load on-demand without freezing the user interface.
